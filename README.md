@@ -9,7 +9,7 @@ Ayotte, K.W. and Huges, D.E., 2004, Observations of Boundary-Layer Wind-Tunnel F
 
 The data set contains LDA measurements of mean and turbulent moments from seven experiments, four over sand covered surfaces/hills ( smooth ) and three over peg covered surfaces/hills ( rough ). The flow parameters are given in the above noted paper. In both the smooth and rough experiments, the steepness varies between 0.2 (maximum slope ) and 0.6 and 0.4 for the smooth and rough surfaces respectively. Both the 0.6 smooth case and 0.4 rough case are fully separated.
 
-The following references may be helpful in provide some context and a view of turbulent flow over hills.
+The following references may be helpful in providing some context and a view of turbulent flow over hills.
 
 Ayotte, K.W., 2008, Computational modelling for wind energy assessment, Journal of Wind Engineering and Industrial Aerodynamics, 96, 1571-1590.
 
@@ -18,7 +18,10 @@ ftp://ftp.atdd.noaa.gov/pub/cwe2010/Files/Papers/093_Ayotte.pdf
 We hope you find the data useful.
 
 Keith Ayotte
+
 Chief Scientist
+
 Windlab Limited
+
 Canberra, Australia
 
