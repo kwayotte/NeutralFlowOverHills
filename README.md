@@ -18,7 +18,6 @@ ftp://ftp.atdd.noaa.gov/pub/cwe2010/Files/Papers/093_Ayotte.pdf
 We hope you find the data useful.
 
 Keith Ayotte
-Chief Scientist
-Windlab Limited
-Canberra, Australia
+
+Chief Scientist, Windlab Limited, Canberra, Australia
 
