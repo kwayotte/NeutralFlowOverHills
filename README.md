@@ -13,11 +13,10 @@ The following references may be helpful in providing some context and a view of 
 
 Ayotte, K.W., 2008, Computational modelling for wind energy assessment, Journal of Wind Engineering and Industrial Aerodynamics, 96, 1571-1590.
 
-ftp://ftp.atdd.noaa.gov/pub/cwe2010/Files/Papers/093_Ayotte.pdf
+I have also included in the repository a copy of an unpublished manuscript by myself, Peter Sullivan and Ned Patton at the National Center for Atmospheric Research in Boulder, Co.  This paper is a few years old now ( in 2016 ), but presents quite a bit of analysis of the data in this repository as well as some very high resolution LES modelling of two of the cases (0.2S and 0.6S).     
 
-We hope you find the data useful.
+We hope you find the data ( and analysis ) useful.
 
 Keith Ayotte
-
 Chief Scientist, Windlab Limited, Canberra, Australia
 
